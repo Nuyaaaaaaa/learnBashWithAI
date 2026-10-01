@@ -28,10 +28,10 @@ pwd
 
 | # | Тема | Папка |
 |---|------|--------|
-| 1 | Навигация | [01-navigation](01-navigation/) |
-| 2 | Создать и удалить | [02-create-delete](02-create-delete/) |
-| 3 | Копировать, перенести, цепочки `&&` | [03-copy-move-chain](03-copy-move-chain/) |
-| 4 | Смотреть файлы (+ мини Vim) | [04-view-files](04-view-files/) |
+| 1 | Навигация | [01-navigation](lvl0/01-navigation/) |
+| 2 | Создать и удалить | [02-create-delete](lvl0/02-create-delete/) |
+| 3 | Копировать, перенести, цепочки `&&` | [03-copy-move-chain](lvl0/03-copy-move-chain/) |
+| 4 | Смотреть файлы (+ мини Vim) | [04-view-files](lvl0/04-view-files/) |
 | — | **Финальный босс** | [final-boss](final-boss/) |
 | — | Все шпаргалки в одном месте | [cheat-sheet.md](cheat-sheet.md) |
 
